@@ -10,6 +10,7 @@ import UIKit
 
 class LeagueVC: UIViewController {
   
+    @IBOutlet weak var nextBtn: BorderButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
